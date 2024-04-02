@@ -1,0 +1,18 @@
+Exercice 0.2 :
+
+Lorsque on regarde l’activité électrique enregistrée par la sonde on ne perçoit pas de corrélation dans les programme. On peut y observer un signal continue qui ne possède pas de réelle variation.
+
+Exercice 1.1 :
+
+m = 42c0ffee93
+N = 02c99a781f
+s = 02306bf1b7
+
+Exercice 1.4 :
+
+Lors de l'analyse de la trace de consommation de la signature RSA (grossièrement, à l’œil). Ceux que l'ont peu voir d’intéres-
+sant est qu'a c'est début du programme ont peu y observer une augmentation de la consommation puis on peut y observer par la suite une oscillation de la consommation qui se retrouve par moment vers une augmentation de la consommation et dans d'autre moment vers une diminution de la consommation
+
+Exercice 1.5 : 
+
+D'après l'analyse de la courbe de consomation la clé est :  111101000101010110110011000001 (1024814273)

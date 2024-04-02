@@ -1,0 +1,13 @@
+Exercice 1.2 :
+
+Lors de l'utilisationdue théorème des restes chinois (Chinese remainder theorem — CRT) pour optimiser le calcul la clef privée de pluisuers éléments :
+
+• (𝑁, 𝑒) est la clef publique,
+• (𝑝, 𝑞, 𝑑𝑝, 𝑑𝑞, 𝑖𝑞) est la clef privée
+
+Exercice 2.3 :
+
+Voici la clé privée trouver :
+
+Clé privée =  (22482584984930046353, 47775493107113604137) 
+
